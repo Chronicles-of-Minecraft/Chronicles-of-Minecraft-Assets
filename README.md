@@ -1,6 +1,6 @@
 # Chronicles of Minecraft (Assets)
 
-[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nd/4.0/)
+[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nd/4.0/)
 
 ## Introduction
 
